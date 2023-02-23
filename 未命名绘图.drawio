@@ -1,1 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T01:14:48.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.23" etag="Pep3G2HcaC445sCGUiwJ" type="github"><diagram name="第 1 页" id="jaCu3R_yoScLj4D4wk66">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-23T03:09:34.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ZPbBUbD5Y6NhUNgBVRUi" version="20.8.23" type="github">
+  <diagram name="第 1 页" id="jaCu3R_yoScLj4D4wk66">
+    <mxGraphModel dx="2261" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#0000FF;fontSize=13;" edge="1" parent="1" source="gplMXWlXpiKNlbr0VXuC-2" target="gplMXWlXpiKNlbr0VXuC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-2" value="&lt;font style=&quot;vertical-align: inherit; font-size: 13px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 13px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 13px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 13px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 13px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 13px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 13px;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 13px;&quot;&gt;&amp;nbsp; &amp;nbsp; 工作台-需求&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="80" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000066;" edge="1" parent="1" source="gplMXWlXpiKNlbr0VXuC-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="240" />
+              <mxPoint x="140" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#0000FF;fontSize=13;" edge="1" parent="1" source="gplMXWlXpiKNlbr0VXuC-3" target="gplMXWlXpiKNlbr0VXuC-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;采购申请&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="80" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#0000FF;fontSize=13;" edge="1" parent="1" source="gplMXWlXpiKNlbr0VXuC-5" target="gplMXWlXpiKNlbr0VXuC-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-5" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 13px;&quot;&gt;&amp;nbsp; &amp;nbsp; 采购申请管理&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#0000FF;fontSize=13;" edge="1" parent="1" source="gplMXWlXpiKNlbr0VXuC-7" target="gplMXWlXpiKNlbr0VXuC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 13px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;采购申请创建&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#0000FF;fontSize=13;" edge="1" parent="1" source="gplMXWlXpiKNlbr0VXuC-9" target="gplMXWlXpiKNlbr0VXuC-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-9" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 13px;&quot;&gt;&amp;nbsp; &amp;nbsp; 新建/复制采购申请&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="700" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#0000FF;fontSize=13;" edge="1" parent="1" source="gplMXWlXpiKNlbr0VXuC-11" target="gplMXWlXpiKNlbr0VXuC-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-11" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;进入录入界面" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="80" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#0000FF;fontSize=13;" edge="1" parent="1" source="gplMXWlXpiKNlbr0VXuC-13" target="gplMXWlXpiKNlbr0VXuC-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-13" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;选择相应单据类&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;型,填写头信息&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-20" value="                                                                                                             注: 采购申请共分三种,分别为标准采购、资产类采购、费用类采购" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="80" y="720" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-21" value="                                                                                                                           注: 标准采购申请定义——除资产类、费用类之外的采购订单,均为标准采购" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="80" y="740" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#0000FF;fontSize=13;" edge="1" parent="1" source="gplMXWlXpiKNlbr0VXuC-22" target="gplMXWlXpiKNlbr0VXuC-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-22" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;保存&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#0000FF;fontSize=13;" edge="1" parent="1" source="gplMXWlXpiKNlbr0VXuC-23" target="gplMXWlXpiKNlbr0VXuC-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-23" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;填写行信息/申请行导入&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="690" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#000066;fontSize=13;" edge="1" parent="1" source="gplMXWlXpiKNlbr0VXuC-20" target="gplMXWlXpiKNlbr0VXuC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-31" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;保存/提交&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-33" value="                                                                                   注: 复制采购申请进入录入界面,单据类型不可更改" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="80" y="760" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0000FF;fontSize=13;" edge="1" parent="1" source="gplMXWlXpiKNlbr0VXuC-34" target="gplMXWlXpiKNlbr0VXuC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gplMXWlXpiKNlbr0VXuC-34" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp; &amp;nbsp; 工作台顶部搜索&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 框,搜索&quot;采购申请创建&quot;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
