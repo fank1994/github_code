@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T03:09:34.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ZPbBUbD5Y6NhUNgBVRUi" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T10:07:16.393Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ccbOkhNypARiZWVl5VJZ" version="20.8.23" type="github" pages="2">
   <diagram name="第 1 页" id="jaCu3R_yoScLj4D4wk66">
     <mxGraphModel dx="2261" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -92,6 +92,93 @@
         </mxCell>
         <mxCell id="gplMXWlXpiKNlbr0VXuC-34" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp; &amp;nbsp; 工作台顶部搜索&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 框,搜索&quot;采购申请创建&quot;&lt;/span&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="500" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HD8tRptKgoQep5FSc0IH" name="第 2 页">
+    <mxGraphModel dx="1434" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6oMUm4Ds9nJPgBWV3X52-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000FF;fontSize=13;" edge="1" parent="1" source="6oMUm4Ds9nJPgBWV3X52-1" target="6oMUm4Ds9nJPgBWV3X52-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6oMUm4Ds9nJPgBWV3X52-1" value="我的工作流" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=13;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="380" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6oMUm4Ds9nJPgBWV3X52-11" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.63;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0000FF;fontSize=13;" edge="1" parent="1" source="6oMUm4Ds9nJPgBWV3X52-2" target="6oMUm4Ds9nJPgBWV3X52-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6oMUm4Ds9nJPgBWV3X52-12" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#0000FF;fontSize=13;" edge="1" parent="1" source="6oMUm4Ds9nJPgBWV3X52-2" target="6oMUm4Ds9nJPgBWV3X52-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6oMUm4Ds9nJPgBWV3X52-2" value="审批工作台" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=13;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="380" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6oMUm4Ds9nJPgBWV3X52-14" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0000FF;fontSize=13;" edge="1" parent="1" source="6oMUm4Ds9nJPgBWV3X52-3" target="6oMUm4Ds9nJPgBWV3X52-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6oMUm4Ds9nJPgBWV3X52-15" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000FF;fontSize=13;" edge="1" parent="1" source="6oMUm4Ds9nJPgBWV3X52-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6oMUm4Ds9nJPgBWV3X52-16" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000FF;fontSize=13;" edge="1" parent="1" source="6oMUm4Ds9nJPgBWV3X52-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6oMUm4Ds9nJPgBWV3X52-3" value="我审批的" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=13;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="260" y="270" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6oMUm4Ds9nJPgBWV3X52-18" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#0000FF;fontSize=13;" edge="1" parent="1" source="6oMUm4Ds9nJPgBWV3X52-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6oMUm4Ds9nJPgBWV3X52-4" value="我发起的" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=13;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="490" y="270" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6oMUm4Ds9nJPgBWV3X52-22" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#0000FF;fontSize=13;" edge="1" parent="1" source="6oMUm4Ds9nJPgBWV3X52-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6oMUm4Ds9nJPgBWV3X52-24" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000FF;fontSize=13;" edge="1" parent="1" source="6oMUm4Ds9nJPgBWV3X52-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6oMUm4Ds9nJPgBWV3X52-5" value="待审批" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=13;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="120" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6oMUm4Ds9nJPgBWV3X52-26" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0000FF;fontSize=13;" edge="1" parent="1" source="6oMUm4Ds9nJPgBWV3X52-5" target="6oMUm4Ds9nJPgBWV3X52-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="470" />
+              <mxPoint x="230" y="530" />
+              <mxPoint x="285" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6oMUm4Ds9nJPgBWV3X52-6" value="已审批" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=13;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="250" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6oMUm4Ds9nJPgBWV3X52-7" value="抄送我" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=13;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="380" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6oMUm4Ds9nJPgBWV3X52-17" value="我发起的" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=13;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="560" y="440" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6oMUm4Ds9nJPgBWV3X52-19" value="审批" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=13;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="20" y="560" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6oMUm4Ds9nJPgBWV3X52-20" value="待审批" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=13;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="140" y="560" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6oMUm4Ds9nJPgBWV3X52-21" value="待审批" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=13;fillColor=#FFFFCC;" vertex="1" parent="1">
+          <mxGeometry x="260" y="560" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
